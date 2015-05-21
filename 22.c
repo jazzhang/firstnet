@@ -2,5 +2,5 @@
 int main()
 {
 	printf("==>\m");
-
+	return 0;
 }
